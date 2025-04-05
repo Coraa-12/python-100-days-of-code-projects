@@ -20,8 +20,8 @@ While my [python-100-days-of-code-practice](https://github.com/Coraa-12/python-1
 | Day | Project Name | Description | Link to Project |
 |-----|-------------|-------------|----------------|
 | 001 | Band Name Generator | CLI program that creates band names by combining the user's hometown and pet name | [View Day 01 Project Code](day-01/band_name_generator.py) |
-| 002 | Tip Calculator | Application that calculates how much each person should pay, including tip | [View Day 02 Project Code](./day-02-tip-calculator/) |
-| 003 | Treasure Island | Text-based adventure game with branching storylines | [View Day 03 Project Code](./day-03-treasure-island/) |
+| 002 | Tip Calculator | Application that calculates how much each person should pay, including tip | [View Day 02 Project Code](./day-02/tip_calculator.py/) |
+| 003 | Treasure Island | Text-based adventure game with branching storylines | [View Day 03 Project Code](./day-03/treasure-island/) |
 | ... | ... *[Will update as I complete each project]* ... | ... | ... |
 | 100 | *[Final Project]* | *[Final Project Description]* | [View Day 01 Project Code](./day-100-final-project/) |
 
