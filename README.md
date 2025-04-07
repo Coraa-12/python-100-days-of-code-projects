@@ -22,6 +22,8 @@ While my [python-100-days-of-code-practice](https://github.com/Coraa-12/python-1
 | 01 | Band Name Generator | CLI program that creates band names by combining the user's hometown and pet name | [View Day 01 Project Code](day-01/band_name_generator.py) |
 | 02 | Tip Calculator | Application that calculates how much each person should pay, including tip | [View Day 02 Project Code](./day-02/tip_calculator.py/) |
 | 03 | Treasure Island | Text-based adventure game with branching storylines | [View Day 03 Project Code](./day-03/choose_your_own_adventure.py/) |
+| 04 | Rock Paper Scissor | A simple Rock Paper Scissors game implemented in Python. | [View Day 04 Project Code](./day-04/rock_paper_scissor.py/) |
+| 05 | Rock Paper Scissor | A simple Rock Paper Scissors game implemented in Python. | [View Day 05 Project Code](./day-05/rock_paper_scissor.py/) |
 | ... | ... *[Will update as I complete each project]* ... | ... | ... |
 | 100 | *[Final Project]* | *[Final Project Description]* | [View Day 01 Project Code](./day-100-final-project/) |
 
